@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Bootstrap CSS -->
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+		<!-- Bootstrap JS-->
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+    <title>Tugas Flask Prediksi Berat Badan</title>
+</head>
+
+<body class="bg-gray-100">
+    
+    <!-- component -->
+    <!-- component -->
+    <div class="bg-green-100 min-h-screen pt-2 font-mono my-16" >
+        
+        <div class="container flex mx-auto">
+            <div class="inputs w-full max-w-2xl p-6">
+                <h1>Satria Nur Saputro_KANGAE</h1>
+                <h1 class="text-2xl text-gray-900">Prediksi Berat Badan</h1>
+                <form class="mt-6 border-t border-gray-400 pt-4" action = "{{ url_for('index') }}" method="POST" action="">
+                    <div class='flex flex-wrap -mx-3 mb-6'>
+                        <div class='w-full md:w-full px-3 mb-6'>
+                            <label class='block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2' for="sex">Jenis Kelamin:</label>
+                            <select class="form-select" name="sex">
+                                <option value="1">Laki-Laki</option>
+                                <option value="0">Perempuan</option>
+                            </select>
+                        </div>
+                        <div class='w-full md:w-full px-3 mb-6'>
+                            <label class='block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2'
+                                for='grid-text-4'>Tinggi Badan (cm):</label>
+                            <input type="text"
+                                class='appearance-none block w-full bg-white text-gray-700 border border-gray-400 shadow-inner rounded-md py-3 px-4 leading-tight focus:outline-none  focus:border-gray-500'
+                                id='grid-text-4' type='text' placeholder='Tinggi Badan (cm) Ex: 182.999"'
+                                name="height" required>
+                        </div>
+
+                    </div>
+                    <div class="flex justify-end ">
+                        <button
+                            class="appearance-none bg-gray-200 text-gray-900 px-2 py-1 shadow-sm border border-gray-400 rounded-md hover:bg-gray-300"
+                            type="submit">Prediksi</button>
+                    </div><br>
+                    <h2 class="text-2xl text-gray-900">
+                    {% if pred %}
+                        <div class="alert alert-info" role="alert">
+                            Berat badan anda menurut prediksi adalah <span class="fw-bold">{{ pred[0] }}</span>
+                        </div>
+                    {% endif %}</h2>
+            </div>
+            </form>
+
+            <div class="prediction-result w-full max-w-3xl p-8">
+                
+                <img class="my-3" src="static/img/cure.png" alt="iris flower">
+            </div>
+
+        </div>
+    </div>
+</body>
+
+</html>

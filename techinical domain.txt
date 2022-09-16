@@ -1,1 +1,0 @@
-techical domain merupakan pembelajaran tentang melakukan manajemen source code dan deployment code.
