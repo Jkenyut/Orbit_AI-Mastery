@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/Tugas_Weekday/RL/QL_activity1/env/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/Tugas_Weekday/RL/QL_activity1/env/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/Tugas_Weekday/RL/QL_activity1/env/share" />
+      <excludeFolder url="file://$MODULE_DIR$/Tugas_Weekday/RL/QL_activity2/env/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/Tugas_Weekday/RL/QL_activity2/env/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/Tugas_Weekday/RL/QL_activity2/env/include" />
+      <excludeFolder url="file://$MODULE_DIR$/Tugas_Weekday/RL/QL_activity2/env/share" />
+      <excludeFolder url="file://$MODULE_DIR$/Tugas_Weekday/hands on flask/aim-technical/M5S2/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/Tugas_Weekday/tugas-prediksi-bb/env/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/Tugas_Weekday/tugas-prediksi-bb/env/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
