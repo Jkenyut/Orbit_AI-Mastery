@@ -4,7 +4,142 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4cdcf74-cd1a-4862-ba9b-d4ffedf73b1a" name="Changes" comment="[DEV]:COMMIT FEATURE1" />
+    <list default="true" id="d4cdcf74-cd1a-4862-ba9b-d4ffedf73b1a" name="Changes" comment="[DEV]:add new feature">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Orbit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tubes/assets/Attendance.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV Merged.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Learning_materials/CV Merged.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS Merged.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Learning_materials/DS Merged.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP Merged.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Learning_materials/NLP Merged.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL Merged.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Learning_materials/RL Merged.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SATRIA NUR SAPUTRO_DHS.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Certificate/SATRIA NUR SAPUTRO_DHS.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Satria_Nur_Saputro_Sertifikat.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Certificate/Satria_Nur_Saputro_Sertifikat.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Technical Merged.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Learning_materials/Technical Merged.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/Graduated ORBIT.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/Graduated ORBIT.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/Laporan Akhir_Studi Independen_Satria Nur Saputro_19102296_Aplikasi Analisis Feedback (Mastery application-based).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/Laporan Akhir_Studi Independen_Satria Nur Saputro_19102296_Aplikasi Analisis Feedback (Mastery application-based).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/Feedback.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/Karyawan.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tubes/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/employee_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tubes/employee_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/karyawan/1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/karyawan/2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/karyawan/satria1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/static/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/static/assets/images/about-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/static/assets/images/analyze.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/static/assets/images/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/static/assets/images/favicon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/static/assets/images/hero-banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/static/assets/images/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/static/assets/images/orbit-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/static/assets/images/result.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/static/assets/images/upload.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/static/assets/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/static/audio-uploaded/VID_20220412_151800.mp4.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/static/audio-uploaded/video_20220427_133336.mp4.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/static/video-uploaded/VID_20220412_151800.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/static/video-uploaded/mov_bbb.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/static/video-uploaded/video_20220427_133336.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/templates/dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/final-project-orbit/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/kampus-merdeka.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/logo-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/ppt-JKenyut_gaming.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/ppt-orbit.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tubes/ppt-orbit.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/CV/Satria_Nur_Saputro_KANGAE.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/CV/Satria_Nur_Saputro_KANGAE.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/CV/TPB_KANGAE_SATRIA NUR SAPUTRO.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/CV/TPB_KANGAE_SATRIA NUR SAPUTRO.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/NLP/analisis/Satria Nur Saputro_KANGAE.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/NLP/analisis/Satria Nur Saputro_KANGAE.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/NLP/analisis/Satria Nur Saputro_KANGAE.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/NLP/analisis/Satria Nur Saputro_KANGAE.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/NLP/analisis/Satria Nur Saputro_KANGAE_Analisis.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/NLP/analisis/Satria Nur Saputro_KANGAE_Analisis.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/NLP/analisis/Satria Nur Saputro_KANGAE_analisis.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/NLP/analisis/Satria Nur Saputro_KANGAE_analisis.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/NLP/modelling &amp; deployment/SATRIA_NUR_SAPUTRO_KANGAE.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/NLP/modelling &amp; deployment/SATRIA_NUR_SAPUTRO_KANGAE.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/NLP/text_preprocessing &amp; feature enginerring/SATRIA NUR SAPUTRO_KANGAE.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/NLP/text_preprocessing &amp; feature enginerring/SATRIA NUR SAPUTRO_KANGAE.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/Post-Test AI Mastery RL Pertemuan 4.mht" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/Post-Test AI Mastery RL Pertemuan 4.mht" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/Post-Test RL G2 Pertemuan 2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/Post-Test RL G2 Pertemuan 2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/Post-Test RL G2 Pertemuan 5.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/Post-Test RL G2 Pertemuan 5.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/Pre-Test AI Mastery RL Pertemuan 3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/Pre-Test AI Mastery RL Pertemuan 3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/Pre-Test AI Mastery RL Pertemuan 4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/Pre-Test AI Mastery RL Pertemuan 4.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/Screenshot 2022-04-20 111626.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/Screenshot 2022-04-20 111626.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/Screenshot 2022-04-20 111737.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/Screenshot 2022-04-20 111737.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/Screenshot 2022-04-20 113350.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/Screenshot 2022-04-20 113350.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/Screenshot 2022-04-20 113800.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/Screenshot 2022-04-20 113800.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/Screenshot 2022-04-20 115133.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/Screenshot 2022-04-20 115133.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/Screenshot 2022-04-20 115245.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/Screenshot 2022-04-20 115245.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/Screenshot 2022-04-20 115533.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/Screenshot 2022-04-20 115533.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/agent_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/agent_brain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/env.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/images/agent1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/images/agent1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/images/bank1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/images/bank1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/images/bank2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/images/bank2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/images/bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/images/bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/images/building1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/images/building1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/images/building2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/images/building2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/images/flag.png" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/images/flag.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/images/pedestrian.png" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/images/pedestrian.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/images/road_closed1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/images/road_closed1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/images/road_closed2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/images/road_closed2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/images/road_closed3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/images/road_closed3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/images/shop.png" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/images/shop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/images/traffic_lights.png" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/images/traffic_lights.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/images/tree1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/images/tree1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/images/tree2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/images/tree2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity1/run_agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity1/run_agent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity2/Figure_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity2/Figure_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity2/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity2/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity2/Screenshot 2022-04-22 092822.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity2/Screenshot 2022-04-22 092822.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity2/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity2/agent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity2/arial.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity2/arial.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity2/helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity2/helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity2/model/model.pth" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity2/model/model.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity2/model_RL.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity2/model_RL.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity2/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity2/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity2/snake-manual_drive.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity2/snake-manual_drive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/QL_activity2/snake_game_auto.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/QL_activity2/snake_game_auto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/Satria Nur Saputro_Kangae.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/Satria Nur Saputro_Kangae.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/Satria Nur Saputro_Kangae.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/Satria Nur Saputro_Kangae.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/Satria Nur Saputro_Kangae_RL.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/Satria Nur Saputro_Kangae_RL.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/Satria Nur Saputro_Kangae_RL.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/Satria Nur Saputro_Kangae_RL.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/RL/Satria Nur Saputro_Kangae_RL.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/RL/Satria Nur Saputro_Kangae_RL.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/Week1/satria nur saputro_FGD pagi.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/Week1/satria nur saputro_FGD pagi.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/Week1/satria nur saputro_FGD siang.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/Week1/satria nur saputro_FGD siang.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/Week2/satria nur saputro_FGD pagi.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/Week2/satria nur saputro_FGD pagi.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/Week2/satria nur saputro_FGD siang.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/Week2/satria nur saputro_FGD siang.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/Week4/ORBIT_17_maret_week_4_K_NN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/Week4/ORBIT_17_maret_week_4_K_NN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/Week5/Kangae_Satria Nur Saputro_Tugas 1 RL.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/Week5/Kangae_Satria Nur Saputro_Tugas 1 RL.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/Week5/Techical_domain/Picture1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/Week5/Techical_domain/Picture1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/Week5/Techical_domain/SATRIA NUR SAPUTRO_ITTP_KANGAE.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/Week5/Techical_domain/SATRIA NUR SAPUTRO_ITTP_KANGAE.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/Week5/Techical_domain/SATRIA NUR SAPUTRO_ITTP_KANGAE.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/Week5/Techical_domain/SATRIA NUR SAPUTRO_ITTP_KANGAE.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/Week5/Techical_domain/SATRIA NUR SAPUTRO_ITTP_KANGAE.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/Week5/Techical_domain/SATRIA NUR SAPUTRO_ITTP_KANGAE.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/Week5/Techical_domain/Screenshot 2022-03-24 225630.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/Week5/Techical_domain/Screenshot 2022-03-24 225630.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/Week5/pacman10-hp.png" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/Week5/pacman10-hp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/sql/Satria_Nur_Saputro_ITTP__Kangae.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/sql/Satria_Nur_Saputro_ITTP__Kangae.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/sql/Screenshot 2022-03-31 154537.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/sql/Screenshot 2022-03-31 154537.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/sql/data_penjualan_ori.db" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/sql/data_penjualan_ori.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/sql/data_siswa_ori.db" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/sql/data_siswa_ori.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/sql/excercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/sql/excercise.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/sql/tugas kelar.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/sql/tugas kelar.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/tugas-prediksi-bb/Satria Nur Saputro_KANGAE.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/tugas-prediksi-bb/Satria Nur Saputro_KANGAE.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/tugas-prediksi-bb/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/tugas-prediksi-bb/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/tugas-prediksi-bb/hasil screenshoot web.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/tugas-prediksi-bb/hasil screenshoot web.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/tugas-prediksi-bb/model/linear_regression_model.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/tugas-prediksi-bb/model/linear_regression_model.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/tugas-prediksi-bb/model/standard_scaler.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/tugas-prediksi-bb/model/standard_scaler.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/tugas-prediksi-bb/model_training_collab.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/tugas-prediksi-bb/model_training_collab.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/tugas-prediksi-bb/static/img/cure.png" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/tugas-prediksi-bb/static/img/cure.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas weekday/tugas-prediksi-bb/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_Weekday/tugas-prediksi-bb/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Learning_materials/basic.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro-to-ml-secured.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Learning_materials/intro-to-ml-secured.pdf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,9 +160,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2VvLQLxOpuj8Qi6STxLHIjIRHEE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -39,7 +174,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "pass",
     "last_opened_file_path": "D:/semester 6/Orbit",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -106,6 +241,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[DEV]:COMMIT FEATURE1" />
-    <option name="LAST_COMMIT_MESSAGE" value="[DEV]:COMMIT FEATURE1" />
+    <MESSAGE value="[DEV]:add new feature" />
+    <option name="LAST_COMMIT_MESSAGE" value="[DEV]:add new feature" />
   </component>
 </project>
