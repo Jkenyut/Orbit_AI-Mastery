@@ -1,11 +1,8 @@
-Tubes/referensi
-Tubes/final-project-orbit/bert-model.h5
-Tubes/final-project-orbit/env
-Tubes/assets
-Tugas weekday/hands on flask/aim-technical/*private
-Tugas weekday/hands on flask/aim-technical/*material-plan.md
-Tugas weekday/hands on flask/aim-technical/*.ipynb_checkpoints
-Tugas weekday/hands on flask
 *private
 *material-plan.md
 *.ipynb_checkpoints
+
+/Tugas_Weekday/tugas-prediksi-bb/env/
+Tubes/env/
+Tubes/assets/ImagesAttendance/
+/Tubes/bert-model.h5
