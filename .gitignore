@@ -1,10 +1,12 @@
 .idea
 
-Tubes/bert-model.h5
-Tubes/env
-Tubes/karyawan
+Final-assignment/bert-model.h5
+Final-assignment/env
+Final-assignment/karyawan
 
 *private
 *material-plan.md
 *.ipynb_checkpoints
-Tubes/assets/ImagesAttendance/
+Final-assignment/assets/ImagesAttendance/**
+Final-assignment/static/video-uploaded/**
+Final-assignment/static/audio-uploaded/**
