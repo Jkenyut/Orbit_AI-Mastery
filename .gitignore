@@ -8,6 +8,6 @@ Final-assignment/karyawan
 *material-plan.md
 *.ipynb_checkpoints
 Final-assignment/assets/ImagesAttendance/*
-Final-assignment/static/video-uploaded/*
-Final-assignment/static/audio-uploaded/*
+Final-assignment/static/video-uploaded/*.mp4
+Final-assignment/static/audio-uploaded/*.wav
 Approved/*.docx
