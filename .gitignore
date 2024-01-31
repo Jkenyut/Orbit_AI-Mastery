@@ -7,6 +7,7 @@ Final-assignment/karyawan
 *private
 *material-plan.md
 *.ipynb_checkpoints
-Final-assignment/assets/ImagesAttendance/**
-Final-assignment/static/video-uploaded/**
-Final-assignment/static/audio-uploaded/**
+Final-assignment/assets/ImagesAttendance/*
+Final-assignment/static/video-uploaded/*
+Final-assignment/static/audio-uploaded/*
+Approved/*.docx
